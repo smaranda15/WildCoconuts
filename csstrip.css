@@ -1,0 +1,80 @@
+.max-width{
+	width: 100%;
+}
+.colorA{
+	color: brown;
+}
+.ContainerContact{
+	max-width: 800px;
+	height: auto;
+	background-color: brown;
+	margin: 50px auto;
+	box-sizing: border-box;
+	padding: 40px;
+}
+
+p{
+	text-align: center;
+	letter-spacing: 1px;
+
+	margin-bottom: 20px;
+	color: white;
+}
+.input, 
+.msg .area{
+	width: 100%;
+	padding: 20px;
+	box-sizing: border-box;
+	margin-bottom: 25px;
+	border: 2px;
+	font-size: 14px;
+	border-radius: 5px;
+	outline: none;
+}
+.login .input{
+	width: 48%;
+	float: left;
+	margin-right: 4%;
+}
+.login .input:last-child{
+	margin-right: 0;
+}
+.submit {
+	width: 100%;
+	text-align: center;
+}
+
+.submit .btn{
+	padding: 12px 85px;
+	font-size: 19px;
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	cursor: pointer;
+	border-radius: 5px;
+	
+}
+td  img{
+	width:260px;
+	height: 200px;
+}
+table {
+	width: 50%;
+}
+td{
+	padding:20px;
+}
+
+.copyright{
+	color: brown;
+	font-size: 20px;
+}
+.btnBooking{
+	padding: 10px 20px;
+	font-size: 18px;
+	text-decoration: none;
+	color: brown;
+	text-transform: uppercase;
+	cursor: pointer;
+	border-radius: 5px;
+}
